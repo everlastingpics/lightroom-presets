@@ -17,26 +17,11 @@
      <rdf:li xml:lang="x-default">Warm Coastal Wedding</rdf:li>
     </rdf:Alt>
    </crs:Name>
-   <crs:ShortName>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default"></rdf:li>
-    </rdf:Alt>
-   </crs:ShortName>
-   <crs:SortName>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default"></rdf:li>
-    </rdf:Alt>
-   </crs:SortName>
    <crs:Group>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">User Presets</rdf:li>
     </rdf:Alt>
    </crs:Group>
-   <crs:Description>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">Warm, romantic beach sunset tone.</rdf:li>
-    </rdf:Alt>
-   </crs:Description>
    <crs:Settings>
     <rdf:Description
      crs:Version="15.0"
@@ -55,69 +40,24 @@
      crs:Dehaze="0"
      crs:Vibrance="+5"
      crs:Saturation="-5"
-     crs:ParametricShadows="0"
-     crs:ParametricDarks="0"
-     crs:ParametricLights="0"
-     crs:ParametricHighlights="0"
-     crs:ParametricShadowSplit="25"
-     crs:ParametricMidtoneSplit="50"
-     crs:ParametricHighlightSplit="75"
      crs:HueAdjustmentRed="+5"
      crs:HueAdjustmentOrange="-2"
      crs:HueAdjustmentYellow="-12"
      crs:HueAdjustmentGreen="+10"
      crs:HueAdjustmentAqua="+5"
      crs:HueAdjustmentBlue="-5"
-     crs:HueAdjustmentPurple="0"
-     crs:HueAdjustmentMagenta="0"
      crs:SaturationAdjustmentRed="+5"
      crs:SaturationAdjustmentOrange="-8"
      crs:SaturationAdjustmentYellow="-15"
      crs:SaturationAdjustmentGreen="-40"
      crs:SaturationAdjustmentAqua="-20"
      crs:SaturationAdjustmentBlue="-15"
-     crs:SaturationAdjustmentPurple="0"
-     crs:SaturationAdjustmentMagenta="0"
-     crs:LuminanceAdjustmentRed="0"
      crs:LuminanceAdjustmentOrange="+8"
      crs:LuminanceAdjustmentYellow="+5"
-     crs:LuminanceAdjustmentGreen="0"
-     crs:LuminanceAdjustmentAqua="0"
      crs:LuminanceAdjustmentBlue="+5"
-     crs:LuminanceAdjustmentPurple="0"
-     crs:LuminanceAdjustmentMagenta="0"
-     crs:SplitToningShadowHue="45"
-     crs:SplitToningShadowSaturation="4"
-     crs:SplitToningHighlightHue="25"
-     crs:SplitToningHighlightSaturation="5"
-     crs:SplitToningBalance="0"
      crs:ColorGradeMidtoneHue="35"
      crs:ColorGradeMidtoneSat="3"
-     crs:ColorGradeShadowLum="0"
-     crs:ColorGradeMidtoneLum="0"
-     crs:ColorGradeHighlightLum="0"
-     crs:ColorGradeBlending="50"
-     crs:ColorGradeGlobalHue="0"
-     crs:ColorGradeGlobalSat="0"
-     crs:ColorGradeGlobalLum="0"
-     crs:ShadowTint="+2"
-     crs:RedHue="+5"
-     crs:RedSaturation="-5"
-     crs:GreenHue="+10"
-     crs:GreenSaturation="-5"
-     crs:BlueHue="-8"
-     crs:BlueSaturation="+5"
-     crs:Sharpness="40"
-     crs:SharpnessRadius="1.0"
-     crs:SharpnessDetail="25"
-     crs:SharpnessEdgeMasking="10"
-     crs:LuminanceSmoothing="10"
-     crs:ColorNoiseReduction="25"
-     crs:ColorNoiseReductionDetail="50"
-     crs:ColorNoiseReductionSmoothness="50"
-     crs:LensProfileEnable="1"
-     crs:LensManualDistortionAmount="0"
-     crs:VignetteAmount="0">
+     crs:Sharpness="40">
      <crs:ToneCurvePV2012>
       <rdf:Seq>
        <rdf:li>0, 5</rdf:li>
